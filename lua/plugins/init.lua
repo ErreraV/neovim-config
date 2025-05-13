@@ -53,6 +53,8 @@ require('lazy').setup({
   require 'plugins.harpoon',
 
   require 'plugins.obsidian',
+
+  require 'plugins.vimtex',
 }, {
   ui = {
     require 'plugins.icons',
